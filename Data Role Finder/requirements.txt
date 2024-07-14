@@ -1,0 +1,12 @@
+pandas
+langchain
+chromadb
+langchain_openai
+sentence_transformers
+streamlit
+langchain_community
+beautifulsoup4
+requests
+accelerate
+transformers
+torch
